@@ -7,20 +7,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&title_color=00d4aa&icon_color=00d4aa&text_color=ffffff&bg_color=0d1117" height="140" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true&stroke=00d4aa&ring=00d4aa&fire=00d4aa&background=0d1117" height="140" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&layout=compact&theme=dark&hide_border=true&title_color=00d4aa&text_color=ffffff&bg_color=0d1117" height="140" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yourusername&theme=github_dark" height="140" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yourusername&theme=github_dark" height="140" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yourusername&theme=github_dark" height="140" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=github_dark" width="100%" />
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=dark&hide_border=true&title_color=00d4aa&text_color=ffffff&bg_color=0d1117&layout=compact" height="140" /> <img src="https://streak-stats.demolab.com/?user=yourusername&theme=dark&hide_border=true&stroke=00d4aa&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa&background=0d1117" height="140" />
-
-<img src="https://github-contributor-stats.vercel.app/api?username=yourusername&limit=5&theme=dark&combine_all_yearly_contributions=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=dark&hide_border=true&title_color=00d4aa&text_color=ffffff&bg_color=0d1117" height="140" /> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-best-repo&theme=dark&hide_border=true&title_color=00d4aa&text_color=ffffff&bg_color=0d1117" height="140" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true&color=00d4aa&line=00d4aa&bg_color=0d1117&height=250" width="100%" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&margin-w=4&column=4&title=Commits,Repositories,PullRequest,Issues" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00d4aa&height=80&section=footer" width="100%" />
 
 </div>
