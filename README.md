@@ -11,6 +11,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Navi&theme=react-dark&hide_border=true&area=true&color=00d4aa&line=00d4aa&bg_color=0d1117&height=250" width="100%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Navi&theme=darkhub&no-frame=true&margin-w=4&column=4&title=Commits,Repositories,PullRequest,Issues" />
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&margin-w=4&column=4&title=Commits,Repositories,PullRequest,Issues" />
 
 </div>
