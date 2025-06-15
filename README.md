@@ -1,6 +1,6 @@
-# AgentSniffer
-
 <div align="center">
+
+# Navi
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=300&lines=Developer;One+Piece+Fan)](https://git.io/typing-svg)
 
@@ -11,5 +11,9 @@
 <br>
 
 <img src="https://streak-stats.demolab.com?user=AgentSniffer&theme=github-dark-blue&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&hide_total_contributions=true" alt="Streak" />
+
+<br>
+
+*Developer who loves building things and watching One Piece*
 
 </div>
