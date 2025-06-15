@@ -6,7 +6,13 @@
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AgentSniffer&show_icons=true&theme=radical&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" width="400" alt="Stats" />
+Future Pirate King of Code | One Piece enthusiast
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" width="400" alt="Stats" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00FFFF&style=flat)
 
 ---
 
