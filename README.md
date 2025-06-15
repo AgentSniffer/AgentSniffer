@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=AgentSniffer&theme=github-dark-blue&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&hide_total_contributions=true" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=AgentSniffer&theme=dark&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=FFFFFF&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&hide_total_contributions=true" alt="Streak" />
 
 <br>
 
