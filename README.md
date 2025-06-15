@@ -6,7 +6,9 @@
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=minimap&show_icons=true&theme=radical&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" width="400" alt="Stats" />
+Future Pirate King of Code | One Piece enthusiast
+
+<img src="https://github-readme-stats.vercel.app/api?username=AgentSniffer&show_icons=true&theme=radical&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" width="400" alt="Stats" />
 
 ---
 
