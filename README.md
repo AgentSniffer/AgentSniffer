@@ -9,9 +9,6 @@
 <div style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgentSniffer&layout=compact&theme=radical&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117&border_color=00FFFF&border_radius=15" alt="Languages" style="box-shadow: 0 8px 32px rgba(0, 255, 255, 0.2);" />
 </div>
-
-<br><br>
-
 *Developer who loves building things and watching One Piece*
 
 </div>
